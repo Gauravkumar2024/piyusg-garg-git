@@ -6,3 +6,7 @@ function Show() {
         return true
     }
 }
+function second(){
+    console.log('this is second line of code');
+    
+}
