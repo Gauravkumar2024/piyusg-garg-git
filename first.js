@@ -5,7 +5,6 @@ function Show() {
     if (age>=18) {
         return true
     }
-
 }
 function second(){
     console.log('this is second line of code');
