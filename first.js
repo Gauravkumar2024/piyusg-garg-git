@@ -7,6 +7,6 @@ function Show() {
     }
 }
 function second(){
-    console.log('this is second line of code');
+    console.log(`this is second line of code ${name1}`);
     
 }
