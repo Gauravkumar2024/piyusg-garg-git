@@ -13,3 +13,6 @@ function second(){
 function Third() {
     console.log('Gaurav name branch added'); 
 }
+function Foru() {
+    console.log('Beta name branch added'); 
+}
