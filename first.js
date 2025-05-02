@@ -10,3 +10,6 @@ function second(){
     console.log(`this is second line of code ${name1}`);
     
 }
+function Third() {
+    console.log('Gaurav name branch added'); 
+}
